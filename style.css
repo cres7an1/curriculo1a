@@ -1,1 +1,45 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor de Física, Pensamento Computacional e Robótica</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Professor [Seu Nome]</h1>
+        <p>Especialista em Física, Pensamento Computacional e Robótica</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+    <section id="sobre">
+        <h2>Sobre Mim</h2>
+        <p>Sou professor de Física, Pensamento Computacional e Robótica na rede pública de ensino do estado do Paraná. Meu objetivo é promover o ensino de ciências e tecnologia de forma interativa e inovadora.</p>
+        <h3>Formação</h3>
+        <ul>
+            <li>Graduação em Física - [Nome da Universidade]</li>
+            <li>Especialização em Pensamento Computacional - [Nome da Instituição]</li>
+            <li>Mestrado em Robótica - [Nome da Universidade]</li>
+        </ul>
+    </section>
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Você pode me encontrar através dos seguintes meios:</p>
+        <ul>
+            <li>Email: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></li>
+            <li>Telefone: (XX) XXXX-XXXX</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/seuperfil" target="_blank">Meu Perfil</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Professor [Seu Nome]. Todos os direitos reservados.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
